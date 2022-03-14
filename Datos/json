@@ -1,0 +1,56 @@
+{
+  "requestId": "",
+  "id": "",
+  "vehicleType": "",
+  "trips": [
+    {
+      "id": "",
+      "tripNumber": "",
+      "etaDispatchTime": "2022-02-01 16:20:59",
+      "wave": "",
+      "routeSequenceNumber": 0,
+      "closeDate": "2022-02-01",
+      "tripHumanId": "",
+      "dispatchCenter": "",
+      "returnWarehouse": "",
+      "drops": [
+  {
+  "id": "",
+  "fulfillmentId": "",
+  "customer": {
+    "tagName": "",
+    "externalReferenceId": "",
+    "phone": "",
+    "addressId": "",
+    "address": "",
+    "microzone": "",
+    "longitude": 0.00,
+    "latitude": 0.00,
+    "businessType": "",
+    "isKAM": false
+  },
+  "state": "CREATED",
+  "shipment": {
+	"id": 324,
+  	"routeId": "",
+  	"stopId": "",
+  	"stopNumber": 0,
+  	"dispatchSequence": 0,
+  	"dispatchWarehouse": "",
+  	"returnWarehouse": "",
+  	"vehicleType": "",
+  	"etd": "16:17:03",
+  	"eta": "16:17:03",
+  	"deliveryWindow": {
+    	"shipmentId": ,
+    	"startTime": "16:17:03",
+    	"endTime": "16:17:03",
+    	"adjustedStartTime": "2022-02-01 16:17:04",
+    	"adjustedEndTime": "2022-02-01 16:17:04"
+    	}
+  }
+}
+      ]
+    }
+  ]
+}
