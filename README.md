@@ -64,7 +64,7 @@ Para correr el proyecto usar el csv dentro de la carpeta Datos del proyecto desc
   --compressed > fertilizer_prediction.csv
 ```
     
-## ¿Por que se tomo este problema?
+## ¿Por qué se tomo este problema?
 
 En Argentina y Brasil las ganancias mas grandes de exportación son de Agricultura.
 
